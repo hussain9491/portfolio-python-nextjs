@@ -1,4 +1,3 @@
-import { image } from 'framer-motion/client';
 import Image from 'next/image';
 import web from "../(public)/web.jpg"
 import personallibrary  from "../(public)/personallibrary.jpg"

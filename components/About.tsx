@@ -70,8 +70,8 @@ const About = () => {
             <div className="space-y-4">
               <h4 className="text-xl font-semibold text-gray-900">Education & Experience:</h4>
               <ul className="space-y-2 text-gray-600">
-                <li>🎓 Bachelor's Degree in Computer Science</li>
-                <li>💼 3+ Years of Professional Development Experience</li>
+                <li>🎓 Certificate in Computer Science</li>
+                <li>💼  6 month of  Development Experience</li>
                 <li>🏆 Multiple Certifications in Web Development</li>
               </ul>
             </div>
